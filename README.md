@@ -11,7 +11,7 @@
 
 ### 🚀 What I’m working on
 - Learning full-stack web development (HTML, CSS, JS, React, Node.js)
-- Exploring Git, Linux and shell scripting
+- Exploring Git/Github
 - Planning open-source contributions soon!
 
 ---
