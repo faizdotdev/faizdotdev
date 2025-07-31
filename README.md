@@ -1,4 +1,4 @@
-<h2 align="center">Hey there, I'm Faiz Alam 👋</h2>
+<h2 align="center">Hey there, I'm Md Faiz Alam 👋</h2>
 
 ---
 
