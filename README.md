@@ -2,7 +2,7 @@
 
 ---
 
-🎓 *B.Tech CSE @ Graphic Era University (GEU)*  
+🎓 *B.Tech CSE @ Graphic Era Deemed to be University (GEU)*  
 💻 *Developer | Exploring AI  
 📍 Based in Dehradun, India  
 📧 faizalam.codes@gmail.com  
